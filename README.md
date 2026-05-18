@@ -15,7 +15,7 @@ Built specifically for **Next.js 16** + **Payload CMS** stacks, with curl-based 
 ## Install
 
 ```bash
-npx skill install YOUR_GITHUB_USERNAME/seo-master
+npx skills add Elixir-Piloting/seo-master
 ```
 
 Or in Claude → Settings → Skills → Install from GitHub → paste the repo URL.
